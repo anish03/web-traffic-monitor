@@ -1,5 +1,7 @@
 # Realtime Web Traffic Monitor
 
+![web-traffic](https://github.com/anish03/web-traffic-monitor/blob/master/web-traffic.png)
+
 ## How to use
 
 Clone & cd into Repository
