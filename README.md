@@ -21,6 +21,7 @@ pip install -r requirements.txt
 cd into src & run flask app
 ```
 cd src
+python dbsetup.py
 flask run
 ```
 
