@@ -15,9 +15,9 @@ app.secret_key = os.urandom(24)
 
 #pusher object
 pusher = Pusher(
-    app_id='649917',
-    key='9a9248e8b3b4343d9456',
-    secret='5bca0ed7f3cade87219f',
+    app_id='XXX',
+    key='XXX',
+    secret='XX',
     cluster='us2',
     ssl=True
 )
