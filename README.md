@@ -4,23 +4,23 @@
 
 ## How to use
 
-Clone & cd into Repository
+### Clone & cd into Repository
 ```
 git clone https://github.com/anish03/web-traffic-monitor.git
 cd web-traffic-monitor
 ```
 
-Activate virtualenv
+### Activate virtualenv
 ```
 source bin/activate
 ```
 
-Install dependencies
+### Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-cd into src & run flask app
+### Run Flask app
 ```
 cd src
 python dbsetup.py
